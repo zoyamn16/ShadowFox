@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # Website to scrape
-url = "https://example.com"
+url = "https://quotes.toscrape.com/"
 
 try:
     # Send request

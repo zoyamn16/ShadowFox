@@ -1,8 +1,0 @@
-WEBSITE TITLE:
-Example Domain
-
-HEADINGS:
-Example Domain
-
-LINKS:
-https://iana.org/domains/example
